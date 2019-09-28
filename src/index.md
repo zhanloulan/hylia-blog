@@ -1,6 +1,6 @@
 ---
 layout: home
-title: A simple starter kit for Eleventy
+title: 斩楼兰的博客
 postsHeading: Latest posts
 archiveButtonText: See all posts
 socialImage: ''
