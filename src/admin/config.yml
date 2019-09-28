@@ -115,4 +115,4 @@ collections:
           - label: "Fonts"
             name: "fonts"
             widget: "hidden"
-            default: { "base": "\"-apple-system, BlinkMacSystemFont,"Microsoft YaHei",微软雅黑, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'\"", "serif": "\"'Lora',sans-serif, serif\""}
+            default: { "base": "\"-apple-system, BlinkMacSystemFont,"Microsoft YaHei",'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'\"", "serif": "\"'Lora',sans-serif, serif\""}
